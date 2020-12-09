@@ -1,0 +1,6 @@
+.movies-list-container {
+    height: 50vh;
+    display: flex;
+    overflow-x: scroll;
+    border: solid 2px red;
+}
