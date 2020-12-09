@@ -1,5 +1,9 @@
 .movie-container {
-    border: solid 2px purple;
-    width: 400px;
-    padding: 10px;
+  border: solid 2px purple;
+  width: 400px;
+  padding: 10px;
+}
+
+.favorite {
+  background-color: goldenrod;
 }
